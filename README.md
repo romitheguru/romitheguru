@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romee
 - 👀 I’m interested in machine learning, natural language processing, deep learning, and software engineering.
-- 🌱 I’m currently learning full stack web development and deep learning.
+- 🌱 I’m currently working as a Lead ML Engineer at Shield.
 - 💞️ I’m looking to collaborate on NLP and ML/DL related projects.
 - 📫 Reach me at my email.
 
